@@ -7,11 +7,12 @@
 
 
 
-cookie=''
+cookie=''  #use chrome inspect element get it
+csrftoken=''  #use chrome inspect element get it
 
 commdb='/home/ingress/comm.db'
-mapdb='/home/ingress python/map.db'
-kmlloc='/var/www/html/ingress_dg.kml'
+mapdb='/home/ingress/map.db'
+kmlloc='/var/www/html/ingress.kml'
 
 
 import random
