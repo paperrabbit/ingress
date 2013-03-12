@@ -7,7 +7,7 @@
 
 #import urllib
 #import urllib2
-import re
+#import re
 import time
 import datetime
 import json
