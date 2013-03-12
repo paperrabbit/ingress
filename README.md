@@ -1,4 +1,5 @@
 ingress intel api
+==================
 
 fetch portals message
 fetch comm message
